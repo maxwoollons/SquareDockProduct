@@ -21,7 +21,7 @@ h1 {
 
 
 header {
-    background-image: url("/assets/WEBDESIGN.png");
+    background-image: url("./assets/WEBDESIGN.png");
     background-size: cover;
     background-position: center;
     height: 100vh;
